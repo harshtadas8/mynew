@@ -23,7 +23,7 @@ function App() {
        <div className='bg-gradient-to-t from-red-400 to-red-500 h-full flex flex-col justify-center items-center gap-6 md:flex md:flex-row md:justify-between md:items-center md:h-4/5 w-full md:w-4/5 md:rounded-3xl p-10' >
        
        <div className="left w-1/2 h-1/2 md:w-1/2 md:h-4/5 flex justify-center items-center" >
-       <img src="Sign Up Form.png" className=' h-4/5 w-full md:w-5/6 md:h-4/5' alt="" />
+       <img src="\Sign Up Form.png" className=' h-4/5 w-full md:w-5/6 md:h-4/5' alt="" />
        </div>
        <div className='h-5/6 w-4/5 md:w-1/2  bg-violet-400 flex flex-col gap-3 md:p-8 rounded-3xl '>
        <h1 className="text-3xl md:text-5xl font-serif font-bold text-center">Sign Up</h1>
